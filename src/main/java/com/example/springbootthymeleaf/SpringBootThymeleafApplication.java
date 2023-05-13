@@ -9,8 +9,4 @@ public class SpringBootThymeleafApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootThymeleafApplication.class, args);
 	}
-
-	
-	// this is a test comment that will be used to confirm that commits are being pushed to repo
-	
 }
